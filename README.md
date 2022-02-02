@@ -1,2 +1,2 @@
-# annitsuha.github.io
+# annitusha.github.io
 HackBU-Club content
